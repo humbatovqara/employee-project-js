@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "Engin Demirog",
+      "department": "IT Department",
+      "salary": 9000,
+      "id": 2
+    },
+    {
+      "name": "Mustafa Murat Coskun",
+      "department": "IKT Department",
+      "salary": 6000,
+      "id": 3
+    }
+  ]
+}
