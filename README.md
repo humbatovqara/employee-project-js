@@ -1,3 +1,3 @@
 # JavaScript Employee Project
 
-Pure JavaScript CRUD project
+Pure JavaScript CRUD project (with fake api)
